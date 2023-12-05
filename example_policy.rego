@@ -1,4 +1,4 @@
-package main
+package terraform.example_policy
 
 # In theory, this should always fail and print the message.
 # Reverse the carat for this to always pass.
