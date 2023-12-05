@@ -1,3 +1,3 @@
 policy "example" {
-  query = "data.terraform.policy.deny
+  query = "data.terraform.example_policy.deny"
 }
